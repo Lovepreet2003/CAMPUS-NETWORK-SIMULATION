@@ -10,8 +10,7 @@ This project simulates a scalable campus-wide network designed to connect multip
 ## 🔑 Key Features
 - VLAN configuration for departmental separation  
 - Inter-VLAN routing using a Layer 3 device  
-- IP addressing with proper subnetting  
-- DHCP for dynamic IP allocation  
+- IP addressing with proper subnetting    
 - Basic security configurations (passwords, access restrictions)  
 - End-to-end connectivity verification using simulation tools  
 
